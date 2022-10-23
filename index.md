@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a sophomore student at Future Campus, Soochow University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Intelligent Driving:** L3 and above, visual fatigue detection algorithms
+- **Smart Cockpit:** domestic large computing chips such as Journey 5, intelligent driving perception reference algorithms
 
 ## News
 
@@ -18,7 +18,7 @@ I am a Ph.D. student at ...
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-## Publications
+## Projects
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
