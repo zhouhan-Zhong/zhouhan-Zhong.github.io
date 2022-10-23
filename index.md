@@ -8,7 +8,7 @@ I am a sophomore student at School of Future Science and Technology of Soochow U
 
 ## Research Interests
 
-- **Smart Cockpit:** Smart Cockpit: domestic large computing chips such as Journey 5, intelligent driving perception
+- **Smart Cockpit:** domestic large computing chips such as Journey 5, intelligent driving perception
 reference algorithms
 - **Intelligent Driving:** L3 and above, visual fatigue detection algorithms
 
