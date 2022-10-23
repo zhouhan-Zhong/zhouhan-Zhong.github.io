@@ -1,19 +1,19 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Chenyu Sebastian Zhu
+position: Sophomore Student
+affiliation: Future Campus of Soochow University
+email: 2501304413@qq.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal academic
+keywords: 苏州大学未来校区
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light.yyliu.net/
+canonical: https://zhuchyu-sebastian.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
+github_link: https://github.com/ZhuChyu-Sebastian
 linkedin: https://www.linkedin.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
