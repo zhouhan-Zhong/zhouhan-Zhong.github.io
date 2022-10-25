@@ -14,8 +14,8 @@ reference algorithms
 
 ## News
 
-- **[OCT. 2022]**  Professor Cong Yang led five undergraduates to establish [the BeeLab](https://xinyu1213.github.io)<strong>.🎉✨ The five members are: Cong Qian, Xinyu Yang, Ruoxi Sun, Chenyu Zhu, Junqi Xu.
-- **[NOV. 2022]** To be updated.
+- **[OCT 25th, 2022]**  Passed College English Test Band 6.
+- **[OCT 11th, 2022]**  Professor Cong Yang led five undergraduates to establish [the BeeLab](https://xinyu1213.github.io)<strong>.🎉✨ The five members are: Cong Qian, Xinyu Yang, Ruoxi Sun, Chenyu Zhu, Junqi Xu.
 - **[DEC. 2022]** To be updated.
 - **[Mar. 2022]** To be updated.
 
