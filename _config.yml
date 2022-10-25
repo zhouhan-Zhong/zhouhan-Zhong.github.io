@@ -11,10 +11,10 @@ description: The Minimal Light is a simple and elegant jekyll theme for academic
 canonical: https://zhuchyu-sebastian.github.io
 
 # Links 
-# If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+# If you don't need one of them, you may delete the corresponding line. 我先把linked和google scholar注释掉了
+#google_scholar: https://scholar.google.com/
 github_link: https://github.com/ZhuChyu-Sebastian
-linkedin: https://xinyu1213.github.io
+#linkedin: https://xinyu1213.github.io
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -23,8 +23,8 @@ favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# Please remove this if you don't use Google Analytics。注释掉了
+#google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
