@@ -15,13 +15,15 @@ reference algorithms
 ## News
 
 - **[OCT 25th, 2022]**  Passed College English Test Band 6.
-- **[OCT 11th, 2022]**  Professor Cong Yang led five undergraduates to establish <strong>[the BeeLab](https://xinyu1213.github.io).🎉✨ The five members are: Cong Qian, Xinyu Yang, Ruoxi Sun, Chenyu Zhu, Junqi Xu.
+- **[OCT 11th, 2022]**  Professor Cong Yang led five undergraduates(**Chenyu Zhu**, Junqi Xu, Cong Qian, Xinyu Yang, Ruoxi Sun, Junqi Xu) to establish **[the BeeLab]**(https://xinyu1213.github.io).🎉✨ The five members are: Cong Qian, Xinyu Yang, Ruoxi Sun.
 - **[DEC. 2022]** To be updated.
 - **[Mar. 2022]** To be updated.
 
 ## Projects
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **No Projects yet...**
+
+<!-- - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**   我把它注释掉了，等有项目了再加，保留了源代码
   <br>
   **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   <br>
@@ -44,8 +46,8 @@ reference algorithms
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
+ -->
 ## Services
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- Conference Reviewers: Blank
+- Journal Reviewers: Blank
